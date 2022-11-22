@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "deploy": "gh-pages -d curso-practico-javascript-matematicas"
+  }
+}

@@ -7,3 +7,6 @@ Aprendo a resolver problemas de matemáticas y estadística básica usando JavaS
 - Conozco el uso de la librería Math.
 - Aplico estadística básica con JavaScript.
 - Realizo un análisis de salarios.
+
+Uno de los HTML tiene pages, específicamente math.html.
+Aquí podemos utilizar diferentes herramientas para cálculos con círculos, cuadrados y triángulos
